@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minhhieu092.github.io/test-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/minhhieu092.github.io/test-app/static/js/main.975d9bf3.chunk.js",
+    "main.js.map": "/minhhieu092.github.io/test-app/static/js/main.975d9bf3.chunk.js.map",
+    "runtime-main.js": "/minhhieu092.github.io/test-app/static/js/runtime-main.07563cd8.js",
+    "runtime-main.js.map": "/minhhieu092.github.io/test-app/static/js/runtime-main.07563cd8.js.map",
+    "static/css/2.11829350.chunk.css": "/minhhieu092.github.io/test-app/static/css/2.11829350.chunk.css",
+    "static/js/2.43505d6b.chunk.js": "/minhhieu092.github.io/test-app/static/js/2.43505d6b.chunk.js",
+    "static/js/2.43505d6b.chunk.js.map": "/minhhieu092.github.io/test-app/static/js/2.43505d6b.chunk.js.map",
+    "index.html": "/minhhieu092.github.io/test-app/index.html",
+    "precache-manifest.f9f6c91d65f2a449e60f0406e4f0a54e.js": "/minhhieu092.github.io/test-app/precache-manifest.f9f6c91d65f2a449e60f0406e4f0a54e.js",
+    "service-worker.js": "/minhhieu092.github.io/test-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/minhhieu092.github.io/test-app/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/minhhieu092.github.io/test-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.43505d6b.chunk.js.LICENSE.txt": "/minhhieu092.github.io/test-app/static/js/2.43505d6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07563cd8.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.43505d6b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.975d9bf3.chunk.js"
+  ]
+}
